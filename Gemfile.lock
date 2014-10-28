@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffi (1.9.6)
+    pocketsphinx-ruby (0.1.0)
+      ffi (>= 1.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pocketsphinx-ruby
